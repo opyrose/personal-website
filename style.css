@@ -1,0 +1,15 @@
+
+#nav-bar {
+  
+    background-color: rgb(0, 0, 0);
+    text-align: right;
+    color: lightgray;
+    font-size: x-large;
+    
+}
+a:visited {
+    color: lightgrey;
+}
+h1 { font-family: 'Lucida Sans Unicode';
+    text-align: left
+    }
