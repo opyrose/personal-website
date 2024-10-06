@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(134, 202, 164);
+}
+#knit {
+    text-align: center;
+    
+}
+#bake{    
+    text-align: center;
+}
+
+#hike {
+    text-align: center;
+}
+img{ 
+    max-width: 75%;
+    max-height: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
