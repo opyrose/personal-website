@@ -3,6 +3,8 @@ img {
     padding: 25px;
     margin-left: 35%;
 }
-h2{
+#home-quote {
     text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium';
 }
